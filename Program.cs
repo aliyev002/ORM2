@@ -19,7 +19,7 @@ int StudentId = int.Parse(Console.ReadLine());
         Console.WriteLine("3. Kitab gotur:");
         Console.WriteLine("4. Kitab qaytar");
         Console.WriteLine("5. Cixis");
-        Console.Write("Seçim edin: ");
+        Console.Write("Secim edin: ");
         string choice = Console.ReadLine();
         
         switch (choice)
